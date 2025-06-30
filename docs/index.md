@@ -40,5 +40,5 @@ hero:
       text: Module 10
       link: /modules/module10
     - theme: brand
-      text: Corrigés d'exercices
-      link: /corriges-exercices
+      text: Exercices
+      link: /exercices.md
