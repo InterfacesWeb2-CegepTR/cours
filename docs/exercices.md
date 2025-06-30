@@ -6,6 +6,7 @@ aside: false
 # Exercices du cours
 
 - Tous les exercices du cours se trouvent sur GitHub.
-- Vous devez clôner le projet et réaliser les exercices dans les dossiers de départ.
+- Chaque module est associé à un dépôt.
 
-- <a href="https://github.com/InterfacesWeb2-CegepTR/exercices" target="_blank">Exercices de cours</a>
+## Module 2
+<a href="https://github.com/InterfacesWeb2-CegepTR/2-exercices-bem" target="_blank">Module 2 BEM</a>
