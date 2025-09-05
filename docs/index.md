@@ -31,6 +31,9 @@ hero:
       text: Module 7
       link: /modules/module7   
     - theme: brand
+      text: Module 7.5
+      link: /modules/module7-5  
+    - theme: brand
       text: Module 8
       link: /modules/module8
     - theme: brand

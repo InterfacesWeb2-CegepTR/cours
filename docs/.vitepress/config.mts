@@ -76,6 +76,7 @@ export default defineConfig({
           { text: 'Module 5', link: '/modules/module5' },
           { text: 'Module 6', link: '/modules/module6' },
           { text: 'Module 7', link: '/modules/module7' },
+          { text: 'Module 7.5', link: '/modules/module7-5' },
           { text: 'Module 8', link: '/modules/module8' },
           { text: 'Module 9', link: '/modules/module9' },
           { text: 'Module 10', link: '/modules/module10' }
